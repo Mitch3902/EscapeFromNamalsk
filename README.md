@@ -65,7 +65,21 @@ ESCAPE FROM NAMALSK is a PvP DayZ server Based on Escape From Tarkov and uses ma
 
 
 
+## Secure Hidouts
+![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/20221114113658_1.jpg?raw=true "Hideout")
+-Costs 10M Rubles
+-Unraidable
+-10 Barrels Max (5000 Slots)
+-Each 500 slot Storage Barrel inside costs 1M Rubles 
+-Can be placed anywhere 
 
+## Secure Bunkers
+![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/GOON/20221113124721_1.jpg?raw=true "Bunker")
+-Costs 5M Rubles
+-Unraidable
+-2 Barrels Max (1000 Slots)
+-Each 500 slot  Storage Barrel inside costs 1M Rubles 
+-Can only be placed at Outposts
 
 
 
