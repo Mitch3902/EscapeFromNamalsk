@@ -88,6 +88,11 @@ ESCAPE FROM NAMALSK is a PvP DayZ server Based on Escape From Tarkov and uses ma
         - Can only be placed at Outposts
         - Stays for one wipe
 
+## USEC Faction Outpost
+![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221117180635_1.jpg?raw=true "USEC")
+## BEAR Faction Outpost
+![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221117180851_1.jpg?raw=true "BEAR")
+
 ## AI Hazmat Raiders in Vorkuta
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/20221114113658_1.jpg?raw=true "Hazmat")
 
