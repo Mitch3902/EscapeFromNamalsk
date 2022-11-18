@@ -68,23 +68,25 @@ ESCAPE FROM NAMALSK is a PvP DayZ server Based on Escape From Tarkov and uses ma
 ## Secure Hidouts
 ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221117153105_1.jpg?raw=true "Hideout")
 ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221117153124_1.jpg?raw=true "Hideout")
--Costs 10M Rubles
--Unraidable
--10 Barrels Max (5000 Slots)
--Each 500 slot Storage Barrel inside costs 1M Rubles 
--Can be placed anywhere 
--Stays for two wipes
+
+        -Costs 10M Rubles
+        -Unraidable
+        -Can Hold Cash
+        -10 Barrels Max (5000 Slots)
+        -Each 500 slot Storage Barrel inside costs 1M Rubles 
+        -Can be placed anywhere 
+        -Stays for two wipes
 
 ## Secure Bunkers
 ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/stash.jpg?raw=true "Bunker")
-                     - Costs 5M Rubles
-                     - Unraidable
-                     - 2 Barrels Max (1000 Slots)
-                     - Each 500 slot  Storage Barrel inside costs 1M Rubles 
-                     - Can only be placed at Outposts
-                     - Stays for one wipe
 
-
+        - Costs 5M Rubles
+        - Unraidable
+        - Cannot hold cash
+        - 2 Barrels Max (1000 Slots)
+        - Each 500 slot  Storage Barrel inside costs 1M Rubles 
+        - Can only be placed at Outposts
+        - Stays for one wipe
 
 ## AI Hazmat Raiders in Vorkuta
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/20221114113658_1.jpg?raw=true "Hazmat")
