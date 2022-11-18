@@ -103,4 +103,4 @@ ESCAPE FROM NAMALSK is a PvP DayZ server Based on Escape From Tarkov and uses ma
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/20221114113658_1.jpg?raw=true "Hazmat")
 
 ## AI CBRN Athena Labs Raiders
-![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/GOON/20221113124721_1.jpg?raw=true "CBRN")
+![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/139010713609a368517794ecae11bcac.jpg?raw=true "CBRN")
