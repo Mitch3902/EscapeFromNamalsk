@@ -6,7 +6,7 @@ By [Escape From Dayz](https://discord.gg/EscapeFromDayz "EscapeFromDayz Discord"
 > EscapeFromDayz is a community which was founded in March 2022 and started doing Dayz Servers in July 2022. Our Servers take core ideas from games like Escape From Tarkov and brings them to DayZ. Please Join [Our Discord](https://discord.gg/EscapeFromDayz "EscapeFromDayz Discord") To stay up to date on updates/announcements!
 
 
-![alt text](https://github.com/BehrTheDon/GGGPics/blob/2cba453a7b646e0c0427be15a16565d0169386a0/EFN.jpg?raw=true "Loading Screen")
+![alt text](https://github.com/Mitch3902/EscapeFromNamalsk/blob/main/Escape_From_DayZ_Namalsk.png?raw=true "Loading Screen")
 
 ## Server Description
 
