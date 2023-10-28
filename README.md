@@ -38,6 +38,7 @@ ESCAPE FROM NAMALSK is a PvP DayZ server Based on Escape From Tarkov and uses ma
         - Helicopters
         - No Vehicle Damage
         - Tactical Flava
+        - EDO Weapons
 
 ## Tarkov Mod Items
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/asdgadsgdsagdsag.png?raw=true "Valubles")
